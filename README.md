@@ -1,3 +1,3 @@
-# mybatis01
+# mybatisDemo
 this is directory  is learn  mybatis
-这个是初级mybatis教程，对应博客1-5
+这个是初级mybatis教程
